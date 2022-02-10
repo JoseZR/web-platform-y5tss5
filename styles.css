@@ -45,7 +45,7 @@ h2 {
   background-color: rgb(119, 117, 117);
   width: 380px;
   height: 300px;
-  margin: 25px 15px 25px 0px;
+  margin: 35px 15px 55px 0px;
 }
 .texto-box,a {
   padding: 10px 30px 10px 30px;
@@ -55,4 +55,12 @@ h2 {
   line-height: 27px;
   color: white;
   text-decoration: none;
+}
+
+button{
+  width: 160px;
+  height: 40px;
+  margin: 5px 0px 0px 110px;
+  
+  
 }
